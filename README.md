@@ -3,6 +3,6 @@
 # Homeworks Repo
  Using Python 3.9
 # Goal: Image Processing stuff
- Learning: tkinter module to make UI /n
+ Learning: tkinter module to make UI </br>
            algorithm of image processing
 
